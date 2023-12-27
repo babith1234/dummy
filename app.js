@@ -1,1 +1,1 @@
-console.log("My firs docker image")
+console.log("My first docker image")
